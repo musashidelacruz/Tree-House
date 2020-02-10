@@ -1,0 +1,38 @@
+<! This is the CSS Style Sheet for SWANs List>
+<* SWANs List Stlye Sheet*>
+
+body {background-color: #CCFFFF;}
+body {background-color: #CCFFFF;}
+
+h1 {
+  color: #FF007F; <! bright magenta>
+  text-align: "center";
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+h2 {
+	color: #009999; <*dark sea*>
+	text-align: left;
+	text-indent: 100px;
+  	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+h3 {
+	color: #009999; <*dark sea*>
+	text-align: left;
+	text-indent: 100px;
+  	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+h5 {
+	color: #009999; <*dark sea*>
+	text-align: left;
+	text-indent: 50px;
+  	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+p{
+	color: #003333; <!very dark sea
+	text-align: left;
+  	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}	 
